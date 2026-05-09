@@ -1,0 +1,4 @@
+pregunta 9
+
+R//La terminal es importante para un desarrollador porque permite navegar y organizar archivos de forma rápida, usar herramientas esenciales como Git y Docker, automatizar tareas y trabajar en servidores reales. Además, ayuda a entender mejor cómo funciona el sistema operativo y mejora la productividad y el control sobre los proyectos.
+

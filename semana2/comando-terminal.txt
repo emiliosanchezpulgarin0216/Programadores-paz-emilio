@@ -1,0 +1,20 @@
+Comandos usados:
+cd Programadores-paz-emilio
+
+ls
+
+mkdir
+
+touch
+
+nano
+
+cat
+
+git status
+
+git add .
+
+git commit -m "mensaje"
+
+git push
