@@ -1,0 +1,5 @@
+http://localhost:3000: aparece que el servidor esta activo
+
+http://localhost:3000/saludo: aparece un menssje que dice, hola comunidad
+
+http://localhost:3000/mensaje/juan: aparece un mensaje que dice, hola juan
